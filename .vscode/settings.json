@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\whisk\\anaconda3\\python.exe",
+  "python.terminal.activateEnvironment": true,
+  "chatgpt.openOnStartup": true
+}
