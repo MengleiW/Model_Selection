@@ -1,7 +1,5 @@
 # Generalized Windowed Model Averaging
-
-This refactor turns the original single-file script into a modular workflow where each major method can be swapped independently.
-
+++
 ## Structure
 
 - `main.py`
